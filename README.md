@@ -10,7 +10,7 @@
 
 ## 🖼️ Capturas de Tela
 
-## Interface de Usuário  
+# Interface de Usuário  
 O aplicativo possui uma interface simples e intuitiva, permitindo que o funcionário registre a entrada e saída de pessoas facilmente.  
 
 ![Interface de usuário](android/app/src/testscreenshot/UI.jpeg)  
