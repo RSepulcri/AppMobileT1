@@ -12,7 +12,10 @@
 
 area para add imagem pra demonstrar a interface e usabilidade
 
-![Captura de Tela](caminho/para/imagem.png)
+![Interface de usuário](android/app/src/testscreenshot/UI.png)
+![Configuração de limite](android/app/src/testscreenshot/LIMIT_CONFIG.png)
+![Alterar cor de fundo](android/app/src/testscreenshot/CHANGE_COLOR_BACKGROUND.png)
+![Alerta ao atingir limite](android/app/src/testscreenshot/LIMIT_ALERT.png)
 
 ## 👥 Desenvolvedores
 
