@@ -18,7 +18,7 @@ area para add imagem pra demonstrar a interface e usabilidade
 
 | Nome | Matrícula |
 |------------|--------------|
-| Eduardo Evaristo | 000000 |
+| Eduardo Evaristo | 123100051 |
 | Rafael Miranda | 123100009 |
 
 
