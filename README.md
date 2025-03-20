@@ -10,12 +10,10 @@
 
 ## 🖼️ Capturas de Tela
 
-area para add imagem pra demonstrar a interface e usabilidade
-
 ![Interface de usuário](android/app/src/testscreenshot/UI.jpeg)
-![Configuração de limite](android/app/src/testscreenshot/LIMIT_CONFIG.jpeg)
-![Alterar cor de fundo](android/app/src/testscreenshot/CHANGE_COLOR_BACKGROUND.jpeg)
-![Alerta ao atingir limite](android/app/src/testscreenshot/LIMIT_ALERT.jpeg)
+![Configuração de limite](android/app/src/testscreenshot/LIMIT-CONFIG.jpeg)
+![Alterar cor de fundo](android/app/src/testscreenshot/CHANGE-COLOR-BACKGROUND.jpeg)
+![Alerta ao atingir limite](android/app/src/testscreenshot/LIMIT-ALERT.jpeg)
 
 ## 👥 Desenvolvedores
 
