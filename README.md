@@ -32,7 +32,7 @@ O aplicativo permite a personalização da interface, incluindo a alteração da
 ---
 
 ## Alerta ao Atingir o Limite  
-Caso o número de pessoas chegue o limite definido, um alerta visual será exibido na tela principal para informar ao funcionário.  
+Caso o número de pessoas chegue ao limite definido, um alerta visual será exibido na tela principal para informar ao funcionário.  
 
 ![Alerta ao atingir limite](android/app/src/testscreenshot/LIMIT-ALERT.jpeg)  
 
